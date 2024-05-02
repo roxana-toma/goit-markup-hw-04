@@ -46,7 +46,7 @@ body {
 
 .header__logo {
   font-family: var(--logo-font);
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.1;
   color: var(--black);
@@ -453,7 +453,7 @@ body {
 
 .footer__logo {
   font-family: var(--logo-font);
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 26px;
   line-height: 1.1;
   color: var(--black);
